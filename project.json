@@ -2,7 +2,7 @@
   "name": "GitBranch",
   "projectId": "51e20499-110d-426e-b270-ff974bb8394b",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Bank.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.Mail.Activities": "[1.24.16]",
@@ -51,6 +51,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "0476d24f-362f-403e-b830-66b12805582e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Bank.xaml",
+      "uniqueId": "44144912-acde-4cd6-a40f-7596c54cbe5f",
       "input": [],
       "output": []
     }
